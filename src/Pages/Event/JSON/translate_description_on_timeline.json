@@ -1,0 +1,30 @@
+{
+    "1":{
+        "head":"Esprit R 2.0",
+        "data":"The project by Esprit University’s Robotics and Automation Society, focusing on robotics design, automation, and AI. Through workshops, competitions, and collaborative projects, it provides students with hands-on experience, fostering creativity and teamwork in the field of robotics."
+    },
+    "2":{
+        "head":"Enicarthage R 8.0" ,       
+        "data":" is an innovative project by the ENICarthage University Robotics Club, offering hands-on workshops and competitions that immerse students in robotics, AI, and automation, while fostering creativity and collaboration."
+    },
+    "3":{
+        "data":" is an impactful initiative designed to inspire and train young engineers in the fields of robotics, technology, and programming. Through hands-on workshops and collaborative projects, TSYP 12 provides students with the skills and knowledge to tackle real-world challenges, fostering innovation and creativity in the next generation of tech leaders."
+        ,"head":"TSYP 12"
+
+    },
+    "4":{
+        "data":"The RAS Tunisia Congress is a key event organized by IEEE RAS Tunisia, bringing together experts and students to explore the latest in robotics and automation through talks, workshops, and collaborative sessions. It serves as a platform for knowledge exchange and innovation in the field."
+        ,"head":"RTC"
+
+    },
+    "5":{
+        "data":"  is a robotics and AI hackathon at ISSAT Mateur, where students collaborate to create innovative solutions. The event fosters creativity, problem-solving, and hands-on experience, pushing the boundaries of technology in a competitive and dynamic environment."
+        ,"head":"Innospeed"
+
+    },
+    "6":{
+        "data":"Details Live Soon!"
+        ,"head":"Coming Soon"
+
+    }
+}

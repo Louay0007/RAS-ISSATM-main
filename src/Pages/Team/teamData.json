@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "name": "louay Rjili",
+    "team": "4th Year",
+    "designation": "Vice-Chair",
+    "developer_team": "No",
+    "email": "ayushmaurya7868@gmail.com",
+    "social": "https://www.instagram.com/louuuu007/",
+    "github": "https://github.com/Rocii12",
+    "linkedin": "https://www.linkedin.com/in/ayushmaurya7868",
+    "image_id": "https://i.ibb.co/CndCVjt/461074563-1270797177612700-8700378667509927332-n.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kacem Benmessoud",
+    "team": "4th Year",
+    "designation": "Chair",
+    "developer_team": "No",
+    "email": "sanidhyakumarpatra@gmail.com",
+    "social": "https://www.instagram.com/kacem_bn_/",
+    "github": "https://github.com/Sanidhya-Patra",
+    "linkedin": "https://www.linkedin.com/in/sanidhyakumarpatra",
+    "image_id": "https://i.ibb.co/9TKDZrV/473348926-1134708274979009-6050137349780577689-n.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Oumayma Bouaneni",
+    "team": "4th Year",
+    "designation": "General Secretary",
+    "developer_team": "No",
+    "email": "",
+    "social": "https://www.instagram.com/storm.veno/",
+    "github": "",
+    "linkedin": "",
+    "image_id": "https://i.ibb.co/6BhLV0H/463136321-868431038757475-5502065162322673872-n.jpg "
+  },
+  {
+    "id": 5,
+    "name": "Yassine Sliti ",
+    "team": "3rd Year",
+    "designation": "Treasurer",
+    "developer_team": "Yes",
+    "developer_domain": "Web",
+    "email": "swarupchanda1963@gmail.com",
+    "social": "https://www.instagram.com/yassine_sliti1/",
+    "github": "https://github.com/swarupecenits",
+    "linkedin": "https://www.linkedin.com/in/swarup-chanda",
+    "image_id": "https://i.ibb.co/wJ21VYg/472306485-2324380417915945-1744703128229920606-n.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mariem cherif",
+    "team": "3rd Year",
+    "designation": "Web Master",
+    "developer_team": "Yes",
+    "developer_domain": "Web",
+    "email": "himdfayzan1735@gmail.com",
+    "social": "https://www.instagram.com/meriam.cherif9/",
+    "github": "https://github.com/fayjan",
+    "linkedin": "https://www.linkedin.com/in/md-fayjan-1ba784256/",
+    "image_id": "https://i.ibb.co/kmjhRWJ/473610828-2879394432220254-4672401874023723435-n.jpg"
+  },
+{
+    "id": 45,
+    "name": "Youssef Triki",
+    "team": "2nd Year",
+    "designation": "EX Vice-Chair",
+    "developer_team": "No",
+    "email": "namratakrishna123@gmail.com",
+    "social": "https://www.instagram.com/triki_yous_sef/",
+    "github": "https://github.com/TechNamrata",
+    "linkedin": "https://www.linkedin.com/in/namrata-nayak-43b09b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "image_id": "https://i.ibb.co/hgj9Kq5/470918475-641663224864534-3939344303448175481-n.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Wyssem Neila",
+    "team": "2nd Year",
+    "designation": "Ex Chair",
+    "developer_team": "No",
+    "email": "yashrajmishra067@gmail.com",
+    "social": "https://www.instagram.com/wyssem_neila/",
+    "github": "https://github.com/Riceguy007",
+    "linkedin": "https://www.linkedin.com/in/rituraj-adhikary-4915952a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "image_id": "https://i.ibb.co/3M3H3T8/414458291-1521739481956591-6757211575393448402-n.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Douaa Ben Amara",
+    "team": "2nd Year",
+    "designation": "EX General Secretary",
+    "developer_team": "No",
+    "email": "bhowmikamita69@gmail.com",
+    "social": "https://www.instagram.com/doaa_ben_amara/",
+    "github": "https://github.com/sagnik-git700",
+    "linkedin": "https://www.linkedin.com/in/sagnik-das-366a34326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "image_id": "https://i.ibb.co/cX51C1N/471803207-2153112368425316-4547551298172995217-n.jpg"
+  },
+
+  {
+    "id": 49,
+    "name": "Mohamed Ben Tkhayat",
+    "team": "2nd Year",
+    "designation": "Ex Web Master",
+    "developer_team": "No",
+    "email": "",
+    "social": "https://www.instagram.com/mohamed_ben_tk/",
+    "github": "",
+    "linkedin": "",
+    "image_id": "https://i.ibb.co/6HTHS3x/471498056-1287206168981793-6268766882703371926-n.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Rayen Rezgui",
+    "team": "2nd Year",
+    "designation": "Ex Treasurer",
+    "developer_team": "No",
+    "email": "",
+    "social": "https://www.instagram.com/rayen_rezgui_99/",
+    "github": "",
+    "linkedin": "",
+    "image_id": "https://i.ibb.co/GtwVSvc/440858145-3527024590941153-4043375847781971235-n.jpg"
+  }
+]
