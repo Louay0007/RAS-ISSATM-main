@@ -19,7 +19,7 @@ function Footer() {
             >
               <a href="/">
                 <img
-                  src="https://i.ibb.co/McY5NwK/RAS-2-61974400bb-removebg-preview.png"
+                  src="https://i.ibb.co/JFdCFjC/392871397-122100345110082893-1999115565188763991-n-removebg-preview.png"
                   alt="Logo"
                   className="w-28 h-28 cursor-pointer"
                 />
@@ -132,7 +132,7 @@ function Footer() {
             <div id="logo" className="ml-12 mt-14">
               <a href="/">
                 <img
-                  src="https://i.ibb.co/McY5NwK/RAS-2-61974400bb-removebg-preview.png"
+                  src="https://i.ibb.co/JFdCFjC/392871397-122100345110082893-1999115565188763991-n-removebg-preview.png"
                   className="w-28 h-28 z-50 cursor-pointer absolute "
                 />
               </a>

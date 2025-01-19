@@ -41,7 +41,7 @@ const Navbar = () => {
         
         <div className="flex cursor-pointer items-center"
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-          <img src="https://i.ibb.co/McY5NwK/RAS-2-61974400bb-removebg-preview.png" alt="RAS Logo" className="h-16 mr-8" />
+          <img src="https://i.ibb.co/JFdCFjC/392871397-122100345110082893-1999115565188763991-n-removebg-preview.png" alt="RAS Logo" className="h-16 mr-8" />
           <span className="hidden md:block text-2xl font-ethenocentric font-semibold cursor-pointer">
             <span
               className="hover:[text-shadow:_0_5px_100px_rgba(0,255,255,0.9),_0_0_15px_rgba(0,255,255,1),_0_0_200px_rgba(0,255,255,1),_0_0_100px_rgba(99,102,241,0.8);] hover:text-[#00FFFF]"
