@@ -26,6 +26,14 @@ const CustomNextArrow = ({ onClick }) => (
 
 // Project data example
 const projects = [
+   {
+    title: "Line Follower serie-1",
+    description:
+      "On Wednesday, January 29th, at ISSAT Mateur, students gathered for an exciting Line Follower Robot Workshop hosted by Kacem Ben Messoud. This hands-on session introduced participants to Arduino, programming, and electronics, providing a great opportunity to explore robotics. With a justified absence granted, students engaged in an innovative learning experience, gaining practical skills and deepening their passion for technology. 🚀",
+    imageUrl:
+      "https://i.ibb.co/B2k3jkyv/475143251-122195761430082893-5394379129458879096-n.jpg",
+    link: "https://www.facebook.com/share/p/1EzHtgLuPS/",
+  },
   {
     title: "Introduction to Robotics with Arduino",
     description:
@@ -34,6 +42,7 @@ const projects = [
       "https://i.ibb.co/S3Nqf7x/464046842-122182646240082893-5197475129548292003-n.jpg",
     link: "https://www.facebook.com/share/p/188EBrUtiJ/",
   },
+
   {
     title: "the ROBOlympix",
     description:
@@ -42,7 +51,6 @@ const projects = [
       "https://i.ibb.co/n3JQ5px/434056127-122146113716082893-3547047627472016766-n.jpg",
     link: "https://www.facebook.com/share/p/18ajwrpFbA/",
   },
-
   {
     title: "Arduino : EP1 ",
     description:
@@ -50,14 +58,6 @@ const projects = [
     imageUrl:
       "https://i.ibb.co/9NpSCNN/469420701-122188676498082893-332028361310545566-n.jpg",
     link: "https://www.facebook.com/share/p/14oDA72e7jA/",
-  },
-  {
-    title: "Arduino: Line Follower",
-    description:
-      "We successfully hosted the Arduino: Line Follower Workshop on Wednesday and Thursday at 6:30 PM, led by our IEEE RAS ISSATM SBC Vice-Chair, Triki Youssef. 🚀 The workshop was a hands-on experience, unlocking the potential of future engineers as participants dove into the world of robotics and automation. Attendees learned how to build and program a line follower robot, gaining practical skills in Arduino and robotics technology. The energy was amazing, and everyone left with valuable knowledge to take their skills to the next level. 🔥🔥",
-    imageUrl:
-      "https://i.ibb.co/XYnQSYJ/424898209-122140550738082893-7357350406714974540-n.jpg",
-    link: "https://www.facebook.com/share/p/189aVBx7pU/",
   },
 ];
 
