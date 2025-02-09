@@ -64,8 +64,8 @@ function Footer() {
                 </a>
               </p>
               <p className="text-white  font-extralight flex-wrap font-spaced text-sm ">
-                <a href="mailto:louay_rjili@ieee.com?subject=Hello%20IEEE RAS ISSATM TEAM">
-                  Email- louay_rjili@ieee.com
+               <a href="mailto:louay_rjili@ieee.orgnpm?subject=Hello%20IEEE RAS ISSATM TEAM">
+                  Email- louay_rjili@ieee.org
                 </a>
               </p>
               <p className="text-white font-extralight font-spaced text-[14px] ">
