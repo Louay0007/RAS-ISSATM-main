@@ -1,3 +1,3 @@
-# N.E.R.D.S
+# IEEE RAS ISSATM SBC
 
-Robotics Club of NIT Silchar
+Robotics Club of ISSATM IEEE SBC
